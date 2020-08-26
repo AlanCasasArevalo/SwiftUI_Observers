@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Onserved&EnviromentObjectExample
-//
-//  Created by Everis on 26/08/2020.
-//  Copyright © 2020 Alan. All rights reserved.
-//
 
 import UIKit
 
