@@ -3,7 +3,10 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @ObservedObject var randomNumber = RandomNumber()
+    //Se comenta la variable observada que venia de la clase random
+//    @ObservedObject var randomNumber = RandomNumber()
+    
+    @EnvironmentObject var randomNumber: RandomNumber
     
     var value = 2
     
@@ -31,7 +34,7 @@ struct ContentView: View {
             }
             .padding(.bottom, 50)
             
-            SecondView(counterNumber: self.$randomNumber.counter)
+            SecondView()
             
         }
     }
