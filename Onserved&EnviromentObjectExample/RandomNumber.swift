@@ -24,4 +24,8 @@ class RandomNumber: ObservableObject {
         self.timer.invalidate()
     }
     
+    func stopAndResetCounter () {
+        counter = 0
+    }
+    
 }

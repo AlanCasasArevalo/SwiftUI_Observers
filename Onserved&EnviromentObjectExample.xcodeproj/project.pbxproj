@@ -15,6 +15,7 @@
 		51C35F1D24F619DB009F0047 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51C35F1B24F619DB009F0047 /* LaunchScreen.storyboard */; };
 		51C35F2524F61A0A009F0047 /* RandomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C35F2424F61A0A009F0047 /* RandomNumber.swift */; };
 		51C35F2724F62154009F0047 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C35F2624F62154009F0047 /* SecondView.swift */; };
+		51C35F2924F64990009F0047 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C35F2824F64990009F0047 /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		51C35F1E24F619DB009F0047 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		51C35F2424F61A0A009F0047 /* RandomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomNumber.swift; sourceTree = "<group>"; };
 		51C35F2624F62154009F0047 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		51C35F2824F64990009F0047 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				51C35F1224F619D9009F0047 /* SceneDelegate.swift */,
 				51C35F2424F61A0A009F0047 /* RandomNumber.swift */,
 				51C35F1424F619D9009F0047 /* ContentView.swift */,
+				51C35F2824F64990009F0047 /* ThirdView.swift */,
 				51C35F2624F62154009F0047 /* SecondView.swift */,
 				51C35F1624F619DB009F0047 /* Assets.xcassets */,
 				51C35F1B24F619DB009F0047 /* LaunchScreen.storyboard */,
@@ -156,6 +159,7 @@
 				51C35F2724F62154009F0047 /* SecondView.swift in Sources */,
 				51C35F1324F619D9009F0047 /* SceneDelegate.swift in Sources */,
 				51C35F1524F619D9009F0047 /* ContentView.swift in Sources */,
+				51C35F2924F64990009F0047 /* ThirdView.swift in Sources */,
 				51C35F2524F61A0A009F0047 /* RandomNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

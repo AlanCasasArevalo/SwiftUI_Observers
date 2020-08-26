@@ -35,7 +35,8 @@ struct ContentView: View {
             .padding(.bottom, 50)
             
             SecondView()
-            
+         
+            ThirdView()
         }
     }
     
